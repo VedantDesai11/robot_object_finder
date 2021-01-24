@@ -8,6 +8,6 @@ An EV3 brick programmed from scratch with python searches a room for the goal ob
  
 ## Programmed using Python and EV3 brick.
 
- <img src="https://raw.githubusercontent.com/VedantDesai11/robot_path_planner/main/Media/Robot_gif.gif" width="800">
+ <img src="https://github.com/VedantDesai11/robot_object_finder/blob/main/Media/ezgif.com-optimize.gif" width="800">
 
 
